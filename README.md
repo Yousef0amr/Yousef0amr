@@ -49,6 +49,11 @@
 
 <hr/>
 
+<div align="center">
+  <h2>projects</h2>
+  <br>
+
+</div>
 
 <hr/>
 
