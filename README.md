@@ -9,8 +9,6 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
  </div>
  
